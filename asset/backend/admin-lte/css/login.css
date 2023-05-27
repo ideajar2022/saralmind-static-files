@@ -1,0 +1,75 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.backend-img-wrapper img {
+    width: 150px;
+}
+
+.login-page .card {
+    box-shadow: 0 0 25px #e8e8e8;
+}
+
+a.backend-img-wrapper {
+    margin: 0 0 32px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.login-page .card,
+.login-page .card-body {
+    border-radius: 9px;
+}
+
+.login-box,
+.register-box {
+    width: 456px;
+}
+
+.login-box-msg h1 {
+    font-size: 30px;
+    line-height: 34px;
+}
+
+.login-box-msg p {
+    font-size: 13px;
+    line-height: 16px;
+    color: #888ea8;
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+
+.login-page .card .form-group {
+    position: relative;
+}
+
+.login-page .card .icons-login svg.feather {
+    position: absolute;
+    top: 7px;
+    left: 10px;
+    width: 18px;
+}
+
+.login-page .card .form-group input {
+    padding: 0 0 0 37px;
+}
+
+.login-page label:not(.form-check-label):not(.custom-file-label) {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 23px;
+}
+
+.login-page .btn-primary {
+    background: #2f55d4;
+    border-color: #2f55d4;
+    padding: 9px 5px;
+    font-size: 16px;
+    line-height: 18px;
+}
+
+.alter-options a {
+    font-size: 13px;
+    line-height: 15px;
+    color: #8b8b8b;
+}
